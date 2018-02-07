@@ -1,0 +1,13 @@
+/********************************
+NAME: Rachel Khai Binh Nguy
+Date: 09/11/2017
+STudent: 126463165
+Week: 2 - reflect
+********************************/
+
+I have learned:
++ again the getline() to get string
++ declaring variables in different version of c++ in 11, 14, 98
++ using fstream open file to read cat, trunc build-in method
++ refresh the display cout style with iomanip library
+
